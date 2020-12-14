@@ -1,0 +1,11 @@
+Savings account created, balance in your savings account is: 10000.0
+After debit, balance in your savings account is: 9000.0
+After debit, balance in your savings account is: 7000.0
+After credit, balance in your savings account is: 8000.0
+After credit, balance in your savings account is: 8240.0
+Amount can't be negative or 0.
+After debit, balance in your savings account is: 8239.0
+After debit, balance in your savings account is: 8237.0
+After credit, balance in your savings account is: 8240.0
+After credit, balance in your savings account is: 8487.2
+Insufficient funds to withdraw the amount.

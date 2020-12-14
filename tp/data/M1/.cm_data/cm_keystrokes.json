@@ -1,0 +1,20 @@
+{
+    "public class P02_AreaOfRectangle.java": [
+        {
+            "operation": "PASTE",
+            "lines": 8,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 14:47:42",
+            "keyStrokeInfo": "public class P02_AreaOfRectangle\n{    \n    public static void main(String[] args)\n    {        \n       System.out.println(\"My First Java Program\");\n\n    }\n}",
+            "position": "1,1"
+        }
+    ],
+    "Area.java": [
+        {
+            "operation": "PASTE",
+            "lines": 8,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 14:48:24",
+            "keyStrokeInfo": "public class P02_AreaOfRectangle\n{    \n    public static void main(String[] args)\n    {        \n       System.out.println(\"My First Java Program\");\n\n    }\n}",
+            "position": "1,1"
+        }
+    ]
+}

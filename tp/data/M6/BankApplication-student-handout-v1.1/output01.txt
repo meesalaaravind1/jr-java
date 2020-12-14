@@ -1,0 +1,11 @@
+Current account created, balance in your current account is: 0.0
+After credit, balance in your current account is: 1000000.0
+After credit, balance in your current account is: 1200000.0
+Amount can't be negative or 0.
+Amount can't be negative or 0.
+After credit, balance in your current account is: 1200001.0
+Amount can't be negative or 0.
+Amount can't be negative or 0.
+After debit, balance in your current account is: 1000001.0
+After debit, balance in your current account is: 1.0
+After debit, balance in your current account is: -998.0 (Overdraft)

@@ -1,0 +1,102 @@
+{
+    "Matrix.java": [
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 16:36:03",
+            "keyStrokeInfo": "\r\n\t\t",
+            "position": "35,26"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 35,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 16:36:04",
+            "keyStrokeInfo": "Scanner scan = new Scanner(System.in);\r\n        int p1=scan.nextInt();\r\n        int q1=scan.nextInt();\r\n        int mat1 [][]=new int[p1][q1];\r\n        for(int i=0;i<p1;i++){\r\n            for(int j=0;j<q1;j++){\r\n                mat1[i][j]=scan.nextInt();\r\n            }\r\n        }\r\n        int p2=scan.nextInt();\r\n        int q2=scan.nextInt();\r\n        int mat2 [][]=new int[p2][q2];\r\nadd_comment\r\n        for(int i=0;i<p2;i++){\r\n            for(int j=0;j<q2;j++){\r\n                mat2[i][j]=scan.nextInt();\r\n            }\r\n        }\r\n        scan.close();\r\n        if(p1!=p2 || p2!=q2){\r\n            System.out.println(\"Matrix addition is not possible.\");\r\n        }else if(p1==p2 && q1==q2){\r\n            int mad [][]=new int [p1][q1];\r\n            for(int a=0;a<p1;a++){\r\n                for(int b=0;b<q1;b++){\r\n                    mad[a][b]=mat1[a][b]+mat2[a][b];\r\n                    if(b<q1-1){\r\n                        System.out.print(mad[a][b]+\" \");\r\n                    }else if(b==q1-1){\r\n                        System.out.print(mad[a][b]);\r\n                    }\r\n                }\r\n                System.out.println();\r\n            }\r\n        }",
+            "position": "36,3"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 16:36:10",
+            "keyStrokeInfo": "",
+            "position": "48,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 16:36:10",
+            "keyStrokeInfo": "",
+            "position": "47,39"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 16:36:14",
+            "keyStrokeInfo": "",
+            "position": "36,3"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 16:36:14",
+            "keyStrokeInfo": "",
+            "position": "36,2"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 16:36:14",
+            "keyStrokeInfo": "",
+            "position": "36,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 16:36:14",
+            "keyStrokeInfo": "",
+            "position": "35,26"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 19:47:04",
+            "keyStrokeInfo": "\r\n",
+            "position": "35,26"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 19:47:04",
+            "keyStrokeInfo": "\t\tScanner scan = new Scanner(System.in);",
+            "position": "36,1"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 19:47:04",
+            "keyStrokeInfo": "\r\n",
+            "position": "47,39"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 19:47:04",
+            "keyStrokeInfo": "add_comment",
+            "position": "48,1"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 34,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 19:47:04",
+            "keyStrokeInfo": "",
+            "position": "36,3"
+        },
+        {
+            "operation": "DELETE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Wed Dec 09 2020 19:47:04",
+            "keyStrokeInfo": "",
+            "position": "35,26"
+        }
+    ]
+}

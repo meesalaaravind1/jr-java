@@ -1,0 +1,8 @@
+Checking account created, balance in your checking account is: 0.0
+After credit, balance in your checking account is: 99950.0
+After credit, balance in your checking account is: 299900.0
+After debit, balance in your checking account is: 199850.0
+After debit, balance in your checking account is: 99800.0
+After debit, balance in your checking account is: 0.0
+Amount can't be negative or 0.
+Insufficient funds to withdraw the amount.

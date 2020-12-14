@@ -1,0 +1,11 @@
+SavingsAccount 10000
+debit 1000
+debit 2000
+credit 1000
+calculateInterest
+debit 0
+debit 1
+debit 2
+credit 3
+calculateInterest
+debit 10000

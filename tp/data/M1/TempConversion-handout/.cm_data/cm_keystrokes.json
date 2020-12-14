@@ -1,0 +1,60 @@
+{
+    "TempConversion.java": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 20:32:24",
+            "keyStrokeInfo": "",
+            "position": "23,38"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 20:32:25",
+            "keyStrokeInfo": "(",
+            "position": "23,38"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 20:32:25",
+            "keyStrokeInfo": ")",
+            "position": "23,39"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 20:32:26",
+            "keyStrokeInfo": "9",
+            "position": "23,39"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 20:32:27",
+            "keyStrokeInfo": ".",
+            "position": "23,40"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 20:32:27",
+            "keyStrokeInfo": "0",
+            "position": "23,41"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 20:32:28",
+            "keyStrokeInfo": "/",
+            "position": "23,42"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Wed Nov 18 2020 20:32:28",
+            "keyStrokeInfo": "5",
+            "position": "23,43"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+CheckingAccount 0
+credit 100000
+credit 200000
+debit 100000
+debit 100000
+debit 99750
+credit 50
+debit 50
+

@@ -1,0 +1,1 @@
+our task is to replace all the LOWER-case characters in the string to UPPER-case and upper-case characters to lower-case.
