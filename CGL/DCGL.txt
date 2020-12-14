@@ -1,0 +1,44 @@
+Cell
+	Attributes
+		int row
+		int col
+		boolean status
+
+	Constructor
+		Cell(row, col)
+	methods
+		isAlive()
+		makeLive()
+		makeDead()
+		getRow()
+		getCol()
+		getStatus()
+
+Board
+	Attributes
+		int size
+		Cell[][] cells[size * size]
+
+	Constructor
+		Board()
+	methods
+		boolean isValidPosition(Cell cell)
+		Cell[] getLiveNeighbours(Cell cell)
+		Cell[] getDeadNeighbours(Cell cell)
+		toString()
+
+CGL
+	Attributes
+		Board
+
+	Constructor
+		CGL(Cell[] liveCells, int sizeOfBoard)
+
+	methods
+		Board getNextGeneration()
+
+Test client
+playGame() {
+	// run infinity
+}
+
