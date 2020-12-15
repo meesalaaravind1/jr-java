@@ -1,0 +1,62 @@
+Account created and balance in your account is: 1000.0
+After debit, balance in your account is: 500.0
+After credit, balance in your account is: 700.0
+After interest, balance in your account is: 777.0
+After credit, balance in your account is: 10777.0
+After debit, balance in your account is: 9565.0
+After debit, balance in your account is: 9315.0
+After interest, balance in your account is: 10339.65
+After debit, balance in your account is: 10083.4
+After interest, balance in your account is: 11192.574
+
+Testcase Failed
+Expected Output is: 
+Account created and balance in your account is: 1000.0
+After debit, balance in your account is: 500.0
+After credit, balance in your account is: 700.0
+After interest, balance in your account is: 777.0
+After credit, balance in your account is: 10777.0
+After debit, balance in your account is: 9565.0
+After debit, balance in your account is: 9315.0
+After interest, balance in your account is: 10339.65
+After debit, balance in your account is: 10083.4
+After interest, balance in your account is: 11192.574
+
+Account created and balance in your account is: 1000.0
+After debit, balance in your account is: 1000.0 overdraft 9500.0
+After debit, balance in your account is: 500.0 overdraft 0.0
+After credit, balance in your account is: 700.0 overdraft 0.0
+After credit, balance in your account is: 10700.0 overdraft 0.0
+After debit, balance in your account is: 700.0 overdraft 9900.0
+After debit, balance in your account is: 700.0 overdraft 9400.0
+After credit, balance in your account is: 10700.0 overdraft 9400.0
+
+Testcase Failed
+Expected Output is: 
+Account created and balance in your account is: 1000.0
+After debit, balance in your account is: 1000.0 overdraft 9500.0
+After debit, balance in your account is: 500.0 overdraft 0.0
+After credit, balance in your account is: 700.0 overdraft 0.0
+After credit, balance in your account is: 10700.0 overdraft 0.0
+After debit, balance in your account is: 700.0 overdraft 9900.0
+After debit, balance in your account is: 700.0 overdraft 9400.0
+After credit, balance in your account is: 10700.0 overdraft 9400.0
+
+Account created and balance in your account is: 1000.0
+After debit, balance in your account is: 400.0
+After credit, balance in your account is: 500.0
+After credit, balance in your account is: 10400.0
+After debit, balance in your account is: 9088.0
+After debit, balance in your account is: 8738.0
+After debit, balance in your account is: 8381.75
+
+Testcase Failed
+Expected Output is: 
+Account created and balance in your account is: 1000.0
+After debit, balance in your account is: 400.0
+After credit, balance in your account is: 500.0
+After credit, balance in your account is: 10400.0
+After debit, balance in your account is: 9088.0
+After debit, balance in your account is: 8738.0
+After debit, balance in your account is: 8381.75
+

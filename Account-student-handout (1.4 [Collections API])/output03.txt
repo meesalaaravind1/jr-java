@@ -1,0 +1,8 @@
+Account created and balance in your account is: 1000.0
+After debit, balance in your account is: 1000.0 overdraft 9500.0
+After debit, balance in your account is: 500.0 overdraft 0.0
+After credit, balance in your account is: 700.0 overdraft 0.0
+After credit, balance in your account is: 10700.0 overdraft 0.0
+After debit, balance in your account is: 700.0 overdraft 9900.0
+After debit, balance in your account is: 700.0 overdraft 9400.0
+After credit, balance in your account is: 10700.0 overdraft 9400.0

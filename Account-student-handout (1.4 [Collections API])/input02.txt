@@ -1,0 +1,10 @@
+account 301011,Grimpson,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,1000.0
+debit 500.0
+credit 200.0
+interest 
+credit 10000.0
+debit 1212.0
+debit 250.0
+interest
+debit 256.25
+interest

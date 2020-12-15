@@ -1,0 +1,7 @@
+Account created and balance in your account is: 1000.0
+After debit, balance in your account is: 400.0
+After credit, balance in your account is: 500.0
+After credit, balance in your account is: 10400.0
+After debit, balance in your account is: 9088.0
+After debit, balance in your account is: 8738.0
+After debit, balance in your account is: 8381.75
